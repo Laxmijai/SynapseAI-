@@ -12,7 +12,7 @@
     "deepdeek",
     "clone"
   ],
-  "author": "akhil k",
+  "author": "Laxmi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
